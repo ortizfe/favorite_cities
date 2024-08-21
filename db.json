@@ -1,0 +1,53 @@
+{
+  "cities": [
+    {
+      "city": "Barcelona",
+      "totalVotes": 7,
+      "totalScore": 34,
+      "rating": 5,
+      "id": "9c8b"
+    },
+    {
+      "city": "Paris",
+      "totalVotes": 2,
+      "totalScore": 1.5,
+      "rating": 1,
+      "id": "7eb4"
+    },
+    {
+      "city": "Prague",
+      "totalVotes": 2,
+      "totalScore": 7,
+      "rating": 3,
+      "id": "84e2"
+    },
+    {
+      "city": "Berlin",
+      "totalVotes": 6,
+      "totalScore": 20,
+      "rating": 3,
+      "id": "e3bf"
+    },
+    {
+      "city": "Madrid",
+      "totalVotes": 7,
+      "totalScore": 27,
+      "rating": 4,
+      "id": "d46a"
+    },
+    {
+      "city": "Milan",
+      "totalVotes": 8,
+      "totalScore": 33,
+      "rating": 5,
+      "id": "d945"
+    },
+    {
+      "id": "414f",
+      "city": "Sevilla",
+      "rating": 0,
+      "totalVotes": 0,
+      "totalScore": 0
+    }
+  ]
+}

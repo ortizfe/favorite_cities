@@ -1,0 +1,35 @@
+.input {
+    margin-right: 5px;
+    margin-left: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 2px;
+    transition: border-bottom-color 0.3s ease;
+}
+
+.input:hover,
+.input:focus {
+    border-color: rgba(167, 234, 178);
+    box-shadow: 0 4px 8px rgba(167, 234, 178);
+}
+
+.button {
+    padding: 5px;
+    cursor:pointer;
+    text-align: center;
+    background-color: white;
+    font-weight: bold;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.button:hover {
+    background-color: rgb(167, 234, 178);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    transform: scale(1.05);
+    border-radius: 12px;
+}
+
+.p {
+    color: red;
+}
